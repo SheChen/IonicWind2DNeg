@@ -1,0 +1,1 @@
+Simulation ionic wind by negtive voltage in comsol
